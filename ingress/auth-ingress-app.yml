@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/04Deepak/todo-gitops.git
+    repoURL: https://github.com/pratikdawane/Auth-Devops-.git
     targetRevision: main
     path: ingress
   destination:
