@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: auth-frontend
-        image: 21deepak/auth-frontend:latest
+        image: 21deepak/auth-frontend:9238d52891c89cc810b54046aa8287441fd7dadc
         ports:
         - containerPort: 80
         resources:
