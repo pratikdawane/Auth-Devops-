@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: auth-backend
-        image: 21deepak/auth-backend:latest
+        image: 21deepak/auth-backend:ca402af4f381780202ffdf0e0512977274e86466
         ports:
         - containerPort: 5000
         env:
